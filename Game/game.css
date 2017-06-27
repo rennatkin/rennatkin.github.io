@@ -1,0 +1,11 @@
+canvas {
+    border:3px solid #5b5784;
+    background-image: url("field.jpg"); /* make field backgroud image*/
+}
+}
+head {
+	background-color: pink;
+}
+body {
+	background-color: pink;
+}
